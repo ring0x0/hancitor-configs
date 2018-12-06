@@ -1,0 +1,4 @@
+Gate URL 1	[u'http://vetahanrigh.com/4/forum.php']
+Gate URL 2	[u'http://eventrewtoftund.ru/4/forum.php']
+Gate URL 3	[u'http://saharhimlitt.ru/4/forum.php']
+Campaign Code	[u'05gfd12']
