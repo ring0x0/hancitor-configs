@@ -1,0 +1,4 @@
+Gate URL 1	[u'http://tertsahedwith.com/4/forum.php']
+Gate URL 2	[u'http://howheidnot.ru/4/forum.php']
+Gate URL 3	[u'http://dingtittohi.ru/4/forum.php']
+Campaign Code	[u'06xet12']
