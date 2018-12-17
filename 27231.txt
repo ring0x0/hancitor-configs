@@ -1,0 +1,4 @@
+Gate URL 1	[u'http://hedsohesfa.com/4/forum.php']
+Gate URL 2	[u'http://sinsiburop.ru/4/forum.php']
+Gate URL 3	[u'http://idrettituse.ru/4/forum.php']
+Campaign Code	[u'17bdp12']
