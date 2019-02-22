@@ -1,0 +1,4 @@
+Gate URL 1	[u'http://hedrinsadidn.com/4/forum.php']
+Gate URL 2	[u'http://cetanhessand.ru/4/forum.php']
+Gate URL 3	[u'http://tetinsafi.ru/4/forum.php']
+Campaign Code	[u'14wed12']
