@@ -1,0 +1,4 @@
+Gate URL 1	[u'http://reprathechim.com/4/forum.php']
+Gate URL 2	[u'http://nothatribab.ru/4/forum.php']
+Gate URL 3	[u'http://vetibutrew.ru/4/forum.php']
+Campaign Code	[u'0804_549362']
