@@ -1,0 +1,4 @@
+Gate URL 1	[u'http://etsofevenghen.com/4/forum.php']
+Gate URL 2	[u'http://hincasupheck.ru/4/forum.php']
+Gate URL 3	[u'http://seromratbo.ru/4/forum.php']
+Campaign Code	[u'11hjd03']
