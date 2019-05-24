@@ -1,0 +1,4 @@
+Gate URL 1	[u'http://tontoftguthat.com/ls5/forum.php']
+Gate URL 2	[u'http://aningrolcoligh.ru/ls5/forum.php']
+Gate URL 3	[u'http://falyandfor.ru/ls5/forum.php']
+Campaign Code	[u'16x1']
