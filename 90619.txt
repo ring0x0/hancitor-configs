@@ -1,0 +1,4 @@
+Gate URL 1	[u'http://howonehimun.com/4/forum.php']
+Gate URL 2	[u'http://onbihoge.ru/4/forum.php']
+Gate URL 3	[u'http://rabmiarco.ru/4/forum.php']
+Campaign Code	[u'10pmz10']
